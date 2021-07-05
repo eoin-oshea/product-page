@@ -1,0 +1,8 @@
+.container {
+    border: 1px solid goldenrod;
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-evenly;
+    padding: 30px;
+}
